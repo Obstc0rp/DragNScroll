@@ -1,0 +1,20 @@
+{
+  "name": "DragNScroll",
+  "authors": [
+    "Obstc0rp"
+  ],
+  "description": "JavaScript library to scroll elements via dragging.",
+  "main": "dist/DragNScroll.js",
+  "keywords": [
+    "scroll",
+    "drag"
+  ],
+  "license": "MIT",
+  "homepage": "github.com/Obstc0rp",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+      "jQuery": "2.2.0"
+  }
+}
